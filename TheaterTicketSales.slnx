@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TheaterTicketSales.Tests/TheaterTicketSales.Tests.csproj" />
+  <Project Path="TheaterTicketSalesLib/TheaterTicketSalesLib.csproj" />
+</Solution>

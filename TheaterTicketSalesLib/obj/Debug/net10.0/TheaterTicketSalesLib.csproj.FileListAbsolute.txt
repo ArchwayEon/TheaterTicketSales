@@ -1,0 +1,11 @@
+C:\Users\roachj\OneDrive - East Tennessee State University\CSCI5220\LecCode\TheaterTicketSales\TheaterTicketSalesLib\bin\Debug\net10.0\TheaterTicketSalesLib.deps.json
+C:\Users\roachj\OneDrive - East Tennessee State University\CSCI5220\LecCode\TheaterTicketSales\TheaterTicketSalesLib\bin\Debug\net10.0\TheaterTicketSalesLib.dll
+C:\Users\roachj\OneDrive - East Tennessee State University\CSCI5220\LecCode\TheaterTicketSales\TheaterTicketSalesLib\bin\Debug\net10.0\TheaterTicketSalesLib.pdb
+C:\Users\roachj\OneDrive - East Tennessee State University\CSCI5220\LecCode\TheaterTicketSales\TheaterTicketSalesLib\obj\Debug\net10.0\TheaterTicketSalesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roachj\OneDrive - East Tennessee State University\CSCI5220\LecCode\TheaterTicketSales\TheaterTicketSalesLib\obj\Debug\net10.0\TheaterTicketSalesLib.AssemblyInfoInputs.cache
+C:\Users\roachj\OneDrive - East Tennessee State University\CSCI5220\LecCode\TheaterTicketSales\TheaterTicketSalesLib\obj\Debug\net10.0\TheaterTicketSalesLib.AssemblyInfo.cs
+C:\Users\roachj\OneDrive - East Tennessee State University\CSCI5220\LecCode\TheaterTicketSales\TheaterTicketSalesLib\obj\Debug\net10.0\TheaterTicketSalesLib.csproj.CoreCompileInputs.cache
+C:\Users\roachj\OneDrive - East Tennessee State University\CSCI5220\LecCode\TheaterTicketSales\TheaterTicketSalesLib\obj\Debug\net10.0\TheaterTicketSalesLib.dll
+C:\Users\roachj\OneDrive - East Tennessee State University\CSCI5220\LecCode\TheaterTicketSales\TheaterTicketSalesLib\obj\Debug\net10.0\refint\TheaterTicketSalesLib.dll
+C:\Users\roachj\OneDrive - East Tennessee State University\CSCI5220\LecCode\TheaterTicketSales\TheaterTicketSalesLib\obj\Debug\net10.0\TheaterTicketSalesLib.pdb
+C:\Users\roachj\OneDrive - East Tennessee State University\CSCI5220\LecCode\TheaterTicketSales\TheaterTicketSalesLib\obj\Debug\net10.0\ref\TheaterTicketSalesLib.dll

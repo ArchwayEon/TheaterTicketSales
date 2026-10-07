@@ -1,0 +1,6 @@
+Unit Test: A SeatingChart should report that the seating availability file is missing.
+      fakeTextFile = mock of textfile interface
+      set up fakeTextTile.IsMissing() to return true
+      sut is a new SeatingChart injecting fakeTextFile
+      Assert that sut.Read() raises FileNotFoundException
+      Assert that the exception message is "SeatAvailability.dat is missing!"
